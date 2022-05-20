@@ -30,5 +30,4 @@ for e in elementos:
             print("No se que es esto")
         
 
-
         
